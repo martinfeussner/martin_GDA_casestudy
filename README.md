@@ -3,7 +3,7 @@ Google Data Analytics case study work on Divvy Bikes
 
 Here you find my R script and visuals produced while working on this case study.
 
-Statemnt of the business task:
+Statement of the business task:
 Creating insights to the differences in bike usage of annual members and casual riders of Divvy Bikes.
 
 Description of data sources used:
